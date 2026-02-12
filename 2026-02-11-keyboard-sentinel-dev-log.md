@@ -6,6 +6,9 @@
 目标很朴素：
 **人不在工位时，至少知道有没有人动过键盘。**
 
+代码仓库：
+- https://github.com/zengo-other/keyboard-sentinel-skill
+
 ---
 
 ## 1. 需求其实就两句话
